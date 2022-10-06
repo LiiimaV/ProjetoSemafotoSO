@@ -1,3 +1,5 @@
+O arquivo principal está na pasta "scr" e se chama MyFirstSemaphore.java
+
 |Aluno <br /> 
 	•Higor Vinícius de Lima <br />
 	
